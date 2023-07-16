@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/reva-jewels-frontend/static/css/main.5571fa7b.css",
+    "main.js": "/reva-jewels-frontend/static/js/main.cb1c53c5.js",
+    "static/media/meal.mp4": "/reva-jewels-frontend/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/reva-jewels-frontend/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/reva-jewels-frontend/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/reva-jewels-frontend/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/reva-jewels-frontend/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/chef.png": "/reva-jewels-frontend/static/media/chef.02d6c5b61bfdc70303b4.png",
+    "static/media/menu.png": "/reva-jewels-frontend/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/reva-jewels-frontend/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/reva-jewels-frontend/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/reva-jewels-frontend/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/reva-jewels-frontend/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/knife.png": "/reva-jewels-frontend/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/reva-jewels-frontend/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/diamond8.jpeg": "/reva-jewels-frontend/static/media/diamond8.420c2be044f3863430a5.jpeg",
+    "static/media/diamond6.jpeg": "/reva-jewels-frontend/static/media/diamond6.6d7c935ac8f29f0c0871.jpeg",
+    "static/media/diamond13.jpeg": "/reva-jewels-frontend/static/media/diamond13.c521544e2f6fae1f3045.jpeg",
+    "static/media/diamond14.jpeg": "/reva-jewels-frontend/static/media/diamond14.83c8a752cf587ceb7cf9.jpeg",
+    "static/media/logo.jpg": "/reva-jewels-frontend/static/media/logo.ebdf8b62fcbb5561f0f3.jpg",
+    "static/media/diamond4.jpeg": "/reva-jewels-frontend/static/media/diamond4.15d4f4f536c0741ec9b9.jpeg",
+    "static/media/G.png": "/reva-jewels-frontend/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/reva-jewels-frontend/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/reva-jewels-frontend/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/reva-jewels-frontend/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/reva-jewels-frontend/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/reva-jewels-frontend/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/reva-jewels-frontend/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/reva-jewels-frontend/index.html",
+    "static/media/spoon.svg": "/reva-jewels-frontend/static/media/spoon.b5681c867bb867d794693513d048401f.svg",
+    "main.5571fa7b.css.map": "/reva-jewels-frontend/static/css/main.5571fa7b.css.map",
+    "main.cb1c53c5.js.map": "/reva-jewels-frontend/static/js/main.cb1c53c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5571fa7b.css",
+    "static/js/main.cb1c53c5.js"
+  ]
+}
