@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <nav className="app__navbar">
       <div className="app__navbar-logo">
-        <img src={images.gericht} alt="app__logo" />
+        <img src={images.revjewelslogo} alt="app__logo" />
       </div>
       <ul className="app__navbar-links">
         <li className="p__opensans">
@@ -26,6 +26,9 @@ const Navbar = () => {
         </li>
         <li className="p__opensans">
           <a href="#contact">Contact</a>
+        </li>
+        <li className="p__opensans">
+          <a href="#diamonds">Diamonds</a>
         </li>
       </ul>
       <div className="app__navbar-login">
@@ -74,6 +77,11 @@ const Navbar = () => {
               <li>
                 <a href="#contact" onClick={() => setToggleMenu(false)}>
                   Contact
+                </a>
+              </li>
+              <li>
+                <a href="#diamonds" onClick={() => setToggleMenu(false)}>
+                  Diamonds
                 </a>
               </li>
             </ul>

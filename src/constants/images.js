@@ -20,6 +20,12 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
+import revjewelslogo from '../assets/gallery/logo.jpg';
+import diamond13 from "../assets/gallery/diamond13.jpeg";
+import diamond4 from "../assets/gallery/diamond4.jpeg";
+import diamond6 from "../assets/gallery/diamond6.jpeg";
+import diamond8 from "../assets/gallery/diamond8.jpeg";
+import diamond14 from "../assets/gallery/diamond14.jpeg";
 
 export default {
   bg,
@@ -44,4 +50,10 @@ export default {
   sign,
   quote,
   gericht,
+  revjewelslogo,
+  diamond13,
+  diamond4,
+  diamond6,
+  diamond8,
+  diamond14
 };

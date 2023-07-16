@@ -3,6 +3,7 @@ import React from "react";
 import {
   AboutUs,
   Chef,
+  Diamonds,
   FindUs,
   Footer,
   Gallery,
@@ -18,14 +19,15 @@ const App = () => (
   <div>
     <Navbar />
     <Header />
+    <Gallery />
     <AboutUs />
     <SpecialMenu />
-    <Chef />
+    {/* <Chef /> */}
     <Intro />
     <Laurels />
-    <Gallery />
     <FindUs />
     <Footer />
+    <Diamonds />
   </div>
 );
 

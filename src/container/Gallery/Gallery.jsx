@@ -41,10 +41,10 @@ const Gallery = () => {
       <div className="app__gallery-images">
         <div className="app__gallery-images_container" ref={scrollRef}>
           {[
-            images.gallery01,
-            images.gallery02,
-            images.gallery03,
-            images.gallery04,
+            images.diamond4,
+            images.diamond6,
+            images.diamond8,
+            images.diamond14,
           ].map((image, index) => (
             <div
               className="app__gallery-images_card flex__center"
